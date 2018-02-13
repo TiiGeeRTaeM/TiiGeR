@@ -24,10 +24,10 @@ install() {
 
 function print_logo() {
  echo -e "\033[38;5;600m" 
- echo -e "                       /TiiGeRTeaM"
- echo -e "                   /TiiGeRTeaM "
- echo -e "             /TiiGeRTeaM"
- echo -e "         /TiiGeRTeaM"
+ echo -e "                         /TiiGeR"
+ echo -e "                     /TiiGeR"
+ echo -e "                 /TiiGeR"
+ echo -e "              /TiiGeR"
  echo -e "\n\e[36m"
 }
 
